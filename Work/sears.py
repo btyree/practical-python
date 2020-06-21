@@ -1,4 +1,4 @@
-#sears.py
+# sears.py
 bill_thickness = 0.11 * 0.001 #Meters (0.11 mm)
 sears_height = 442 # Heights (meters)
 num_bills = 1
